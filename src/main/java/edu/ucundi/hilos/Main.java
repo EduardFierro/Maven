@@ -10,5 +10,9 @@ package edu.ucundi.hilos;
  * @author Eduard Fierro
  */
 public class Main {
+     public static void main(String args[]){
+        
+         System.out.println("Hola");
+    }
     
 }
